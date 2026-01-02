@@ -1,7 +1,16 @@
-1. These are some notes from my time as an undergraduate student. Proceed with caution for errors.
-2. The purpose of these notes was to help me internalize information and study for my courses, not to publish; as such, I have tried to strike a balance between thoroughness and conciseness. 
-3. They were originally written down in Markdown where LaTeX was used strictly for math notation. Since then, I either used an LLM or Python script to handle the conversion into full LaTeX documents. 
-4. As it is still more convenient for me to access these files in Markdown on my local machine on a daily basis, I will not be frequently updating the LaTeX files, unless there is a major addendum or erratum.
-5. New files will be uploaded periodically as I produce more notes. 
-6. All rights reserved. I of course would like to thank my professors, who continually fueled my interest for mathematics and helped me greatly to learn this material; while these notes are obviously derived from some of their lectures, I ultimately compiled them in my own words. As such, I would not like them to be redistributed in anyway.
-7. Happy reading!
+## Overview
+This repository contains synthesized lecture notes for a selection of advanced undergraduate courses in mathematics and physics. The goal of this project was to translate my original notes into a more sophisticated format, in particular LaTe​X documents suitable for reference.
+
+## Original Format
+These notes were originally produced in a Markdown environment (namely, Obsidian) for ease of access (across various platforms such as my iPhone, iPad, and MacBook) and convenient editing. LaTeX was used strictly for mathematical symbols and notation, which is supported with Markdown.
+
+My goal in making these notes was to synthesize my knowledge and understanding of the material I was learning, with a focus on structural clarity, consistent notation, and logical flow. I tried to strike a balance between thoroughness and conciseness. These notes were also meant to be used to study for future material, and as a refresher of prerequisites for when I was taking more advanced courses.
+
+## Conversion and Release Cycle
+To convert my notes into the LaTeX format uploaded to this repository, I utilized Python scripts and LLM assistance to translate my Markdown documents into LaTeX. The PDF documents in this repository represent "stable releases" of the material. Since the source files are maintained in Obsidian for daily use across multiple platforms, these PDFs are updated periodically to reflect major addenda or errata. New course notes will be uploaded as they reach maturity.
+
+## Disclaimer
+These notes are a synthesis of my personal understanding derived from university lectures. While every effort has been made to ensure mathematical accuracy, they are ultimately intended as a student reference and may contain errors.
+
+## Copyright
+All Rights Reserved. Content is strictly for personal educational use. Please do not modify or sell these documents without permission.
